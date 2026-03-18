@@ -1,4 +1,4 @@
-# TP Android – HelloToast
+# Lab Android – HelloToast
 
 Application Android simple réalisée avec Android Studio en Java.
 
